@@ -41,3 +41,7 @@ dvc remote add -d myremote /tmp/dvcstore
 ```
 dvc push or dvc push -r myremote
 ```
+
+```
+https://dvc.org/doc
+```
