@@ -25,3 +25,19 @@ dvc repro
 ```
 dvc dag
 ```
+
+```
+dvc add data/
+```
+
+```
+git add data.dvc && git commit -m "add data file"
+```
+
+```
+dvc remote add -d myremote /tmp/dvcstore
+```
+
+```
+dvc push or dvc push -r myremote
+```
