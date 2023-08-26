@@ -9,3 +9,7 @@ git init
 ```
 touch .gitignore
 ```
+
+```
+pip install -r requirements.txt
+```
