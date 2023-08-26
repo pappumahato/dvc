@@ -13,3 +13,11 @@ touch .gitignore
 ```
 pip install -r requirements.txt
 ```
+
+```
+dvc init
+```
+
+```
+dvc repro
+```
